@@ -1,0 +1,350 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [:react-native-community_masked-view] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-contacts] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-contacts/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-maps] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-reanimated] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-view-shot] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-view-shot/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.62.2] /home/saurabh/.gradle/caches/transforms-2/files-2.1/0b0a292037d17c8ed2728c055eb1ad2b/jetified-react-native-0.62.2/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/a430ff083c3ccb9e6346144a5dd2ced9/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/a0cc55542e7f80901507e4e652970d1e/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/055a171d10c43231a2795117ecd4c3fd/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] /home/saurabh/.gradle/caches/transforms-2/files-2.1/1ed26cdc1f47a6754ce1546799dd43a1/android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/7b4521e09033db39989053c4a0984cc2/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/2b7e6ebaa515cd43f42fb356f0d1941c/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/83ef104dfb430f397d92e4759e916162/fresco-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/8547c58d8a189afcab5540191afe7320/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/ee0a0f1df6ec82b39c6bd94672681bab/drawee-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/fbdc3e33c0cf4fb6618b3fcc8d105591/nativeimagefilters-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/c3b7b12f448628b281d0d62b884cad68/imagepipeline-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/3b198830d922c7c36b5728d232b5dfa2/nativeimagetranscoder-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/8b504391aa72c1fccbfde5f9aecf364d/imagepipeline-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.8.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/9de4f137b5bba80ebab04e77dc5095d4/soloader-0.8.0/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/3eb43dcc83336306d77ef63b3402a327/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/edab9a506dbd8c78a6f1a18fc4eb209e/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/3e974e7e51555c82be5b9fd468966b2b/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/dcb0caa0b7590c92c93c5bf3cc09a745/play-services-maps-17.0.0/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/3653837072ca28c91f326ffc9a22e52c/play-services-location-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/6d45d9e0505112f0eec54f8796757f91/play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/6158af36f33dab56a52a643764c9ece8/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/2570ee8cdf5a2a7fe062aa117d18a819/play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/9a55a2622142e6d5455e09838ac149a0/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/33fa28bb10cd4d05c9c7b76910e2f1d7/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /home/saurabh/.gradle/caches/transforms-2/files-2.1/57896e3f8d3af1ea30640dfb96021293/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/420bad76d144494602cd19d31fe9bd87/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/3d8e4bc7a6af7aacf11542b377d7496f/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/b95a670ae7bd376b7902e15855cd0ee3/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/35cad5169a4745c0bfde91156540bc0d/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/b3384283a73b276daf1e9a12cf250bb7/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/90a42a2ce697149cad235e929844c219/activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/24d6d583c434259890735095825ff497/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/d12f3cd832a8f12aaa6c028e5d7796c3/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/f1fdfdf03c30563a3eb92f6c5b5051ce/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/a25b01144be0941df6bba7293d8c0f17/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/e9872f4e302f432d4ed640cfa6c58eb6/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/3d9ab8da87588fc427cbb77eaa356e9a/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/d23cfac6fd44ce3e9a8c7b4e18ff2938/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/4f509a65121478d6153615d7ef5b7c5f/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/a20a73fc01b18d3fde5e258f4cd5ad79/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/ee4a69f4f726969bc5c4f11a1f23bd91/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/411bdbedc35f51d8e6b1c352c69abc9b/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/9aab56159b5d892e0145587101b1f3a4/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/97914c6c2bf3a10c0dbc0cbbac018fe9/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/d3986420b69bbcda2a26da93e8786bb5/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/b7d3a1583ae97d0e70a1770a1993bbf1/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/21edf3c6b4f2eecf7b9eccd8e17daad5/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/b9668bd4c5473f0298eda6562aec7b99/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/596fc679c0cd5d4e81c0bb73a34a2445/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/71dd278aed309c95a240fbf4151d1363/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/dcbbc49e5cb5bb2aee330b22c38faa7c/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/fcf7d5609a86ac86db550c02db072902/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/saurabh/.gradle/caches/transforms-2/files-2.1/4895ecb3635c76f5452ea9789bddd8ba/jetified-android-maps-utils-0.5/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/afebf13a371f91297a1e8ec7e18e2c99/jetified-fbcore-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:annotation:0.8.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/562a4d899b3a7a711a398f7636c8c187/annotation-0.8.2/AndroidManifest.xml:2:1-13:12
+INJECTED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:2:3-29
+		INJECTED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-maps] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/dcb0caa0b7590c92c93c5bf3cc09a745/play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/dcb0caa0b7590c92c93c5bf3cc09a745/play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from [com.facebook.react:react-native:0.62.2] /home/saurabh/.gradle/caches/transforms-2/files-2.1/0b0a292037d17c8ed2728c055eb1ad2b/jetified-react-native-0.62.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.62.2] /home/saurabh/.gradle/caches/transforms-2/files-2.1/0b0a292037d17c8ed2728c055eb1ad2b/jetified-react-native-0.62.2/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/7b4521e09033db39989053c4a0984cc2/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/7b4521e09033db39989053c4a0984cc2/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/9de4f137b5bba80ebab04e77dc5095d4/soloader-0.8.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/9de4f137b5bba80ebab04e77dc5095d4/soloader-0.8.0/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/dcb0caa0b7590c92c93c5bf3cc09a745/play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/dcb0caa0b7590c92c93c5bf3cc09a745/play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/3653837072ca28c91f326ffc9a22e52c/play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/3653837072ca28c91f326ffc9a22e52c/play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/6d45d9e0505112f0eec54f8796757f91/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/6d45d9e0505112f0eec54f8796757f91/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/6158af36f33dab56a52a643764c9ece8/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/6158af36f33dab56a52a643764c9ece8/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/2570ee8cdf5a2a7fe062aa117d18a819/play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/2570ee8cdf5a2a7fe062aa117d18a819/play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/9a55a2622142e6d5455e09838ac149a0/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/9a55a2622142e6d5455e09838ac149a0/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/4f509a65121478d6153615d7ef5b7c5f/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/4f509a65121478d6153615d7ef5b7c5f/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/ee4a69f4f726969bc5c4f11a1f23bd91/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/ee4a69f4f726969bc5c4f11a1f23bd91/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/saurabh/.gradle/caches/transforms-2/files-2.1/4895ecb3635c76f5452ea9789bddd8ba/jetified-android-maps-utils-0.5/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/saurabh/.gradle/caches/transforms-2/files-2.1/4895ecb3635c76f5452ea9789bddd8ba/jetified-android-maps-utils-0.5/AndroidManifest.xml:7:5-11:19
+MERGED from [com.facebook.soloader:annotation:0.8.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/562a4d899b3a7a711a398f7636c8c187/annotation-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/562a4d899b3a7a711a398f7636c8c187/annotation-0.8.2/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/4f509a65121478d6153615d7ef5b7c5f/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.covidtracker.MainActivity
+ADDED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:13:7-23:18
+	android:label
+		ADDED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:launchMode
+		ADDED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:17:9-40
+	android:windowSoftInputMode
+		ADDED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:16:9-86
+	android:name
+		ADDED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-community_masked-view] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-contacts] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-contacts/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-contacts] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-contacts/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-maps] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-view-shot] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-view-shot/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-view-shot] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-view-shot/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] /home/saurabh/.gradle/caches/transforms-2/files-2.1/0b0a292037d17c8ed2728c055eb1ad2b/jetified-react-native-0.62.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] /home/saurabh/.gradle/caches/transforms-2/files-2.1/0b0a292037d17c8ed2728c055eb1ad2b/jetified-react-native-0.62.2/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/a430ff083c3ccb9e6346144a5dd2ced9/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/a430ff083c3ccb9e6346144a5dd2ced9/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/a0cc55542e7f80901507e4e652970d1e/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/a0cc55542e7f80901507e4e652970d1e/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/055a171d10c43231a2795117ecd4c3fd/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/055a171d10c43231a2795117ecd4c3fd/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] /home/saurabh/.gradle/caches/transforms-2/files-2.1/1ed26cdc1f47a6754ce1546799dd43a1/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/saurabh/.gradle/caches/transforms-2/files-2.1/1ed26cdc1f47a6754ce1546799dd43a1/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/7b4521e09033db39989053c4a0984cc2/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/7b4521e09033db39989053c4a0984cc2/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/2b7e6ebaa515cd43f42fb356f0d1941c/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/2b7e6ebaa515cd43f42fb356f0d1941c/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/83ef104dfb430f397d92e4759e916162/fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/83ef104dfb430f397d92e4759e916162/fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/8547c58d8a189afcab5540191afe7320/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/8547c58d8a189afcab5540191afe7320/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/ee0a0f1df6ec82b39c6bd94672681bab/drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/ee0a0f1df6ec82b39c6bd94672681bab/drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/fbdc3e33c0cf4fb6618b3fcc8d105591/nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/fbdc3e33c0cf4fb6618b3fcc8d105591/nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/c3b7b12f448628b281d0d62b884cad68/imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/c3b7b12f448628b281d0d62b884cad68/imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/3b198830d922c7c36b5728d232b5dfa2/nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/3b198830d922c7c36b5728d232b5dfa2/nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/8b504391aa72c1fccbfde5f9aecf364d/imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/8b504391aa72c1fccbfde5f9aecf364d/imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.8.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/9de4f137b5bba80ebab04e77dc5095d4/soloader-0.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.8.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/9de4f137b5bba80ebab04e77dc5095d4/soloader-0.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/3eb43dcc83336306d77ef63b3402a327/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/3eb43dcc83336306d77ef63b3402a327/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/edab9a506dbd8c78a6f1a18fc4eb209e/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/edab9a506dbd8c78a6f1a18fc4eb209e/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/3e974e7e51555c82be5b9fd468966b2b/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/3e974e7e51555c82be5b9fd468966b2b/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/dcb0caa0b7590c92c93c5bf3cc09a745/play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/dcb0caa0b7590c92c93c5bf3cc09a745/play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/3653837072ca28c91f326ffc9a22e52c/play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/3653837072ca28c91f326ffc9a22e52c/play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/6d45d9e0505112f0eec54f8796757f91/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/6d45d9e0505112f0eec54f8796757f91/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/6158af36f33dab56a52a643764c9ece8/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/6158af36f33dab56a52a643764c9ece8/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/2570ee8cdf5a2a7fe062aa117d18a819/play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/2570ee8cdf5a2a7fe062aa117d18a819/play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/9a55a2622142e6d5455e09838ac149a0/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/9a55a2622142e6d5455e09838ac149a0/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/33fa28bb10cd4d05c9c7b76910e2f1d7/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/33fa28bb10cd4d05c9c7b76910e2f1d7/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /home/saurabh/.gradle/caches/transforms-2/files-2.1/57896e3f8d3af1ea30640dfb96021293/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /home/saurabh/.gradle/caches/transforms-2/files-2.1/57896e3f8d3af1ea30640dfb96021293/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/420bad76d144494602cd19d31fe9bd87/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/420bad76d144494602cd19d31fe9bd87/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/3d8e4bc7a6af7aacf11542b377d7496f/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/3d8e4bc7a6af7aacf11542b377d7496f/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/b95a670ae7bd376b7902e15855cd0ee3/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/b95a670ae7bd376b7902e15855cd0ee3/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/35cad5169a4745c0bfde91156540bc0d/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/35cad5169a4745c0bfde91156540bc0d/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/b3384283a73b276daf1e9a12cf250bb7/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/b3384283a73b276daf1e9a12cf250bb7/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/90a42a2ce697149cad235e929844c219/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/90a42a2ce697149cad235e929844c219/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/24d6d583c434259890735095825ff497/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/24d6d583c434259890735095825ff497/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/d12f3cd832a8f12aaa6c028e5d7796c3/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/d12f3cd832a8f12aaa6c028e5d7796c3/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/f1fdfdf03c30563a3eb92f6c5b5051ce/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/f1fdfdf03c30563a3eb92f6c5b5051ce/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/a25b01144be0941df6bba7293d8c0f17/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/a25b01144be0941df6bba7293d8c0f17/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/e9872f4e302f432d4ed640cfa6c58eb6/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/e9872f4e302f432d4ed640cfa6c58eb6/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/3d9ab8da87588fc427cbb77eaa356e9a/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/3d9ab8da87588fc427cbb77eaa356e9a/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/d23cfac6fd44ce3e9a8c7b4e18ff2938/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/d23cfac6fd44ce3e9a8c7b4e18ff2938/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/4f509a65121478d6153615d7ef5b7c5f/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/4f509a65121478d6153615d7ef5b7c5f/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/a20a73fc01b18d3fde5e258f4cd5ad79/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/a20a73fc01b18d3fde5e258f4cd5ad79/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/ee4a69f4f726969bc5c4f11a1f23bd91/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/ee4a69f4f726969bc5c4f11a1f23bd91/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/411bdbedc35f51d8e6b1c352c69abc9b/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/411bdbedc35f51d8e6b1c352c69abc9b/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/9aab56159b5d892e0145587101b1f3a4/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/9aab56159b5d892e0145587101b1f3a4/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/97914c6c2bf3a10c0dbc0cbbac018fe9/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/97914c6c2bf3a10c0dbc0cbbac018fe9/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/d3986420b69bbcda2a26da93e8786bb5/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/d3986420b69bbcda2a26da93e8786bb5/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/b7d3a1583ae97d0e70a1770a1993bbf1/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/b7d3a1583ae97d0e70a1770a1993bbf1/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/21edf3c6b4f2eecf7b9eccd8e17daad5/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/21edf3c6b4f2eecf7b9eccd8e17daad5/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/b9668bd4c5473f0298eda6562aec7b99/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/b9668bd4c5473f0298eda6562aec7b99/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/596fc679c0cd5d4e81c0bb73a34a2445/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/596fc679c0cd5d4e81c0bb73a34a2445/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/71dd278aed309c95a240fbf4151d1363/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/71dd278aed309c95a240fbf4151d1363/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/dcbbc49e5cb5bb2aee330b22c38faa7c/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/dcbbc49e5cb5bb2aee330b22c38faa7c/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/fcf7d5609a86ac86db550c02db072902/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/fcf7d5609a86ac86db550c02db072902/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/saurabh/.gradle/caches/transforms-2/files-2.1/4895ecb3635c76f5452ea9789bddd8ba/jetified-android-maps-utils-0.5/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/saurabh/.gradle/caches/transforms-2/files-2.1/4895ecb3635c76f5452ea9789bddd8ba/jetified-android-maps-utils-0.5/AndroidManifest.xml:5:5-43
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/afebf13a371f91297a1e8ec7e18e2c99/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/afebf13a371f91297a1e8ec7e18e2c99/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:annotation:0.8.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/562a4d899b3a7a711a398f7636c8c187/annotation-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:annotation:0.8.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/562a4d899b3a7a711a398f7636c8c187/annotation-0.8.2/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-maps] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-maps] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/dcb0caa0b7590c92c93c5bf3cc09a745/play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/dcb0caa0b7590c92c93c5bf3cc09a745/play-services-maps-17.0.0/AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/dcb0caa0b7590c92c93c5bf3cc09a745/play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/dcb0caa0b7590c92c93c5bf3cc09a745/play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/dcb0caa0b7590c92c93c5bf3cc09a745/play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/dcb0caa0b7590c92c93c5bf3cc09a745/play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/dcb0caa0b7590c92c93c5bf3cc09a745/play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/dcb0caa0b7590c92c93c5bf3cc09a745/play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/6d45d9e0505112f0eec54f8796757f91/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/6d45d9e0505112f0eec54f8796757f91/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/6d45d9e0505112f0eec54f8796757f91/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/6d45d9e0505112f0eec54f8796757f91/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/9a55a2622142e6d5455e09838ac149a0/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/saurabh/.gradle/caches/transforms-2/files-2.1/4895ecb3635c76f5452ea9789bddd8ba/jetified-android-maps-utils-0.5/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/saurabh/.gradle/caches/transforms-2/files-2.1/4895ecb3635c76f5452ea9789bddd8ba/jetified-android-maps-utils-0.5/AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/9a55a2622142e6d5455e09838ac149a0/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/9a55a2622142e6d5455e09838ac149a0/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58

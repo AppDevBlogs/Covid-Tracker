@@ -1,0 +1,97 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.covidtracker"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:4:5-67
+11-->/home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> <!-- Include required permissions for Google Maps API to run. -->
+12-->[:react-native-maps] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-81
+12-->[:react-native-maps] /home/saurabh/Desktop/PROJECT/covidTracker/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:22-78
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->[com.google.android.gms:play-services-maps:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/dcb0caa0b7590c92c93c5bf3cc09a745/play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+13-->[com.google.android.gms:play-services-maps:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/dcb0caa0b7590c92c93c5bf3cc09a745/play-services-maps-17.0.0/AndroidManifest.xml:23:22-76
+14
+15    <uses-feature
+15-->[com.google.android.gms:play-services-maps:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/dcb0caa0b7590c92c93c5bf3cc09a745/play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+16        android:glEsVersion="0x00020000"
+16-->[com.google.android.gms:play-services-maps:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/dcb0caa0b7590c92c93c5bf3cc09a745/play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+17        android:required="true" />
+17-->[com.google.android.gms:play-services-maps:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/dcb0caa0b7590c92c93c5bf3cc09a745/play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+18
+19    <application
+19-->/home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:6:5-25:19
+20        android:name="com.covidtracker.MainApplication"
+20-->/home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:7:7-38
+21        android:allowBackup="false"
+21-->/home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:11:7-34
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.1.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/4f509a65121478d6153615d7ef5b7c5f/core-1.1.0/AndroidManifest.xml:24:18-86
+23        android:icon="@mipmap/ic_launcher"
+23-->/home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:9:7-41
+24        android:label="@string/app_name"
+24-->/home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:8:7-39
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->/home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:10:7-52
+26        android:theme="@style/AppTheme" >
+26-->/home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:12:7-38
+27        <activity
+27-->/home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:13:7-23:18
+28            android:name="com.covidtracker.MainActivity"
+28-->/home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:14:9-37
+29            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+29-->/home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:16:9-86
+30            android:label="@string/app_name"
+30-->/home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:15:9-41
+31            android:launchMode="singleTask"
+31-->/home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:17:9-40
+32            android:windowSoftInputMode="adjustResize" >
+32-->/home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:18:9-51
+33            <intent-filter>
+33-->/home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:19:9-22:25
+34                <action android:name="android.intent.action.MAIN" />
+34-->/home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:20:13-65
+34-->/home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:20:21-62
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->/home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:21:13-73
+36-->/home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:21:23-70
+37            </intent-filter>
+38        </activity>
+39        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+39-->/home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:24:7-84
+39-->/home/saurabh/Desktop/PROJECT/covidTracker/android/app/src/main/AndroidManifest.xml:24:17-81
+40        <!-- Needs to be explicitly declared on P+ -->
+41        <uses-library
+41-->[com.google.android.gms:play-services-maps:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/dcb0caa0b7590c92c93c5bf3cc09a745/play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+42            android:name="org.apache.http.legacy"
+42-->[com.google.android.gms:play-services-maps:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/dcb0caa0b7590c92c93c5bf3cc09a745/play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+43            android:required="false" />
+43-->[com.google.android.gms:play-services-maps:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/dcb0caa0b7590c92c93c5bf3cc09a745/play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+44
+45        <activity
+45-->[com.google.android.gms:play-services-base:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/6d45d9e0505112f0eec54f8796757f91/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+46            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+46-->[com.google.android.gms:play-services-base:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/6d45d9e0505112f0eec54f8796757f91/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+47            android:exported="false"
+47-->[com.google.android.gms:play-services-base:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/6d45d9e0505112f0eec54f8796757f91/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+48            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+48-->[com.google.android.gms:play-services-base:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/6d45d9e0505112f0eec54f8796757f91/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+49
+50        <meta-data
+50-->[com.google.android.gms:play-services-basement:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/9a55a2622142e6d5455e09838ac149a0/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+51            android:name="com.google.android.gms.version"
+51-->[com.google.android.gms:play-services-basement:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/9a55a2622142e6d5455e09838ac149a0/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+52            android:value="@integer/google_play_services_version" />
+52-->[com.google.android.gms:play-services-basement:17.0.0] /home/saurabh/.gradle/caches/transforms-2/files-2.1/9a55a2622142e6d5455e09838ac149a0/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+53    </application>
+54
+55</manifest>

@@ -1,0 +1,4 @@
+#Sat Apr 11 22:38:35 IST 2020
+base.0=/home/saurabh/Desktop/PROJECT/covidTracker/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
